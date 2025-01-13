@@ -1,0 +1,11 @@
+console.log;
+toUpperCase;
+forEach;
+Filter;
+Math.random;
+Math.floor;
+parseInt;
+parseFloat;
+Number;
+Date;
+setTimeout;
